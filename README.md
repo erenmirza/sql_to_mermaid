@@ -1,7 +1,7 @@
 # sql_to_mermaid
 Scripts to convert compiled SQL into mermaid markdown diagrams
 
-![Alt text](img\sql_to_mermaid.png)
+![Alt text](./img/sql_to_mermaid.png)
 
 ## Installation
 
